@@ -1,3 +1,4 @@
 string customer name, address, phone number
 read customer name, address, phone number
 end 
+if customer has no job give 20% discount for the bill

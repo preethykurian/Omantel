@@ -1,2 +1,4 @@
 read order
 check order
+check the amount
+if the amount > 100 then give discount
